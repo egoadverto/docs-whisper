@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
-date: 2018-11-28T15:14:39+10:00
+title: 'La Guida Scrum'
+date: 2024-10-30T09:34:00+01:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+La Guida Definitiva a Scrum: Le Regole del Gioco
