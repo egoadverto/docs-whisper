@@ -1,6 +1,6 @@
 ---
 title: "Scopo della Guida Scrum"
-date: {{ .Date }}
+date: 2024-10-30T10:50:00+01:00
 draft: false
 weight: 100
 ---
