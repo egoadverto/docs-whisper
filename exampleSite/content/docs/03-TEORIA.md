@@ -1,5 +1,5 @@
 ---
-title: I Valori di Scrum
+title: La teoria di Scrum
 date: 2024-11-01
 draft: false
 weight: 3
